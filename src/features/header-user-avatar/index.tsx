@@ -1,0 +1,1 @@
+export { HeaderUserAvatar } from './ui';

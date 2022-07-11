@@ -1,0 +1,1 @@
+export { CustomersTableFilter } from './ui';
