@@ -2,7 +2,7 @@ import { faker } from '@faker-js/faker';
 import { v4 as uuidv4 } from 'uuid';
 
 /**
- * @remark генерация коллеции данных
+ * Генерация коллеции данных
  */
 
 export type Person = {

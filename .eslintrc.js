@@ -1,3 +1,5 @@
+// FIXME: PLEASE
+
 module.exports = {
 	extends: [
 		'plugin:react/recommended',
